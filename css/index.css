@@ -1,0 +1,392 @@
+.rectangle1{ 
+    background-color:  #3C4390;
+    width: 100%;;
+    height: 200px;
+    margin-top: -100px;
+    
+}
+
+
+
+.button{
+    background-color: #3C4390;
+    height: 50px;
+    width: 180px;
+    margin-left: 45%;
+    margin-top: 2%;
+    position: absolute;
+    color: #F5DEE0;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    border-style: solid;
+    border: none;
+    
+    
+}
+.button:hover {
+    background-color: #0011CD;
+    color: #F5DEE0;
+}
+  .rectangle4{ 
+    background-color: #3C4390;
+    width: 100%;
+    height: 1100px;
+}
+.signmeup1:hover{
+    background-color: #F1C0C4;
+    color: #3c4390; 
+}
+
+.signmeup:hover{
+    background-color: #F1C0C4;
+    color: #3c4390; 
+}
+
+
+
+
+
+.navigation-bar {
+    width: 100%;  /* i'm assuming full width */
+    height: 80px; /* change it to desired width */
+    background-color: #F5DEE0; /* change to desired color */
+    /* margin-top: -900px; */
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    margin-top: 0px;    /* if you want it vertically middle of the navbar. */
+}
+.navigation-bar > a {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    height: 80px;        /* if you want it to take the full height of the bar */
+    line-height: 80px;    /* if you want it vertically middle of the navbar */
+    padding: 0 50px 0 50px;
+}
+
+#h1_orphan {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+#p_save {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#dog{
+    width: 40%;
+    height: 40%;
+    object-fit: cover;
+    float: left;
+}
+
+#cat{
+    width: 20%;
+    height: 25%;
+    object-fit: cover;
+    float: left;
+    margin-left: -300px;
+    margin-top: 170px;
+
+}
+
+.styled-table {
+    /* margin: 120px 0px; */
+    margin-top:160px;
+    margin-left:1050px;
+    min-width: 300px;
+    min-height: 300px;
+    border-radius:20px;
+}
+
+#r1c1t{
+    border-bottom:1px solid black
+}
+
+#r1c2t{
+    border-bottom:1px solid black;
+    border-left:1px solid black;
+}
+
+#r2c2t{    
+    border-left:1px solid black
+}
+  table{
+    width: 25%;
+    border-collapse:separate;
+    background-color: #FFF4E9; 
+    border: 1px solid;
+    border-radius:20px;
+}
+
+td{
+    width: 50%;
+    text-align: center;
+    font-size: larger;
+}
+
+
+#adopt_h{
+    margin-top: -800px;
+    margin-left: 50px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#adopt_p{
+    margin-top: 200px;
+    margin-left: 50px;
+    font-size: x-large;
+    font-family: 'Spectral';
+    max-width: 500px;
+}
+
+#adopt_button{
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+#adopt_image{
+    width: 100%;
+    height: 900px;
+}
+
+#foster_image{
+    margin-top: 390px;
+    width: 100%;
+    height: 900px;
+}
+
+#foster_h{
+    margin-top: -800px;
+    margin-left: 1100px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#foster_p{
+    margin-top: 150px;
+    margin-left: 1100px;
+    font-size: x-large;
+    font-family: 'Spectral';
+    max-width: 500px;
+}
+
+#foster_button{
+    margin-left: 1250px;
+    margin-top: 80px;
+}
+
+#vol_image{
+    margin-top:450px;
+    width: 100%;
+    height: 1000px;
+}
+
+
+#vol_h{
+    margin-top: -800px;
+    margin-left: 50px;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#vol_p{
+    margin-top: 200px;
+    margin-left: 50px;
+    font-size: x-large;
+    font-family: 'Spectral';
+    max-width: 500px;
+}
+
+#vol_button{
+    margin-left: 160px;
+    margin-top: 30px;
+}
+
+#footer_h{
+    margin-top: 420px;
+    text-align: center;
+    color: #FFFFFF
+}
+#test{
+    margin-top: -200px;
+}
+
+div { display: table; }
+ div.t {
+    display: table-cell;
+   
+}
+#signmeup{
+    background-color: #F5DEE0;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 37px;
+    font-size: 17px;
+    
+}
+#signmeup1{
+    background-color: #F5DEE0;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 37px;
+    font-size: 17px;
+    
+}
+
+#inputsign1{
+    background-color: #FFFFFF;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-left: 1400px;
+    margin-top: 130px;
+    height: 27px;
+    width: 280px;
+    font-size: 17px;
+    padding: 5px;
+}
+
+
+#inputsign{
+    background-color: #FFFFFF;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-left: 750px;
+    height: 27px;
+    width: 320px;
+    font-size: 17px;
+    padding: 5px;
+}
+
+
+#test{
+   
+    margin-top: 40px;
+}
+#testh2{
+    margin-top: -680px;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: xx-large;
+}
+
+.rectangle5{ 
+    background-color: #F5DEE0;
+    width: 1728px;
+    height: 80px;
+    margin-top: 50px;
+}
+#contacts{
+    margin-top:50px;
+}
+
+#helps{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#info{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#donate{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+#social{
+    margin-left: 80px;
+}
+
+#subcats{
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-left: 125px;
+    margin-top: 15px;
+}
+
+#subcats2{
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-left: 290px;
+    margin-top: -345px;
+}
+
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+    /* instagram */
+    .fa-instagram {
+        background: #e35b5b;
+        color: white;
+      }
+
+      /* whatsapp */
+    .fa-whatsapp {
+        background: #2cac05;
+        color: white;
+      }
+
+      #socials{
+        margin-left: 1050px;
+        margin-top: -150px;
+      }
+      .navigation-bar{
+        font-size: larger;
+        justify-items: center;
+        align-items: center;
+        justify-content: space-evenly;
+        display: flex;
+      }
+      #navigation-bar{
+        justify-content: flex-start;
+      }
+      body {
+        background-color: #C6DDF3;
+        background-repeat: no-repeat;
+        
+      }
+
+
+
+
+
+

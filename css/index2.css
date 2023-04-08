@@ -1,0 +1,926 @@
+
+    .rectangle1{ 
+        background-color:  #3C4390;
+        width: 100%;;
+        height: 200px;
+        margin-top: -100px;
+        
+    }
+
+    .button{
+        background-color: #3C4390;
+        height: 50px;
+        width: 180px;
+        margin-left: 45%;
+        margin-top: 2%;
+        position: absolute;
+        color: #F5DEE0;
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        border-radius: 12px;
+        border-style: solid;
+        border: none;
+        
+        
+    }
+    .button:hover {
+        background-color: #0011CD;
+        color: #F5DEE0;
+    }
+    .rectangle4{ 
+        background-color: #3C4390;
+        width: 100%;
+        height: 700px;
+    }
+    .signmeup1:hover{
+        background-color: #F1C0C4;
+        color: #3c4390; 
+    }
+
+    .signmeup:hover{
+        background-color: #F1C0C4;
+        color: #3c4390; 
+    }
+
+    .logo {
+        display: inline-block;
+        vertical-align: top;
+        width: 150px;
+        height: 150px;
+        margin-right: 20px;
+        margin-top: 0px;   
+    }
+    
+    #footer_h{
+        margin-top: 420px;
+        text-align: center;
+        color: #FFFFFF
+    }
+    #test{
+        margin-top: -200px;
+    }
+
+    div { display: table; }
+    div.t {
+        display: table-cell;
+    
+    }
+    #signmeup{
+        background-color: #F5DEE0;
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+        height: 37px;
+        font-size: 17px;
+        
+    }
+    
+    #signmeup1{
+        background-color: #F5DEE0;
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+        height: 37px;
+        font-size: 17px;
+        
+    }
+
+    #inputsign1{
+        background-color: #FFFFFF;
+        border-top-left-radius: 15px;
+        border-bottom-left-radius: 15px;
+        margin-left: 1400px;
+        margin-top: 130px;
+        height: 27px;
+        width: 280px;
+        font-size: 17px;
+        padding: 5px;
+    }
+    @media screen and (max-device-width: 1800px){
+        #inputsign1{
+            margin-left: 1200px;
+        }
+    }
+    @media screen and (max-device-width: 1600px){
+        #inputsign1{
+            margin-left: 1000px;
+        }
+    }
+    @media screen and (max-device-width: 1400px){
+        #inputsign1{
+            margin-left: 800px;
+        }
+    }
+    @media screen and (max-device-width: 1200px){
+        #inputsign1{
+            margin-left: 600px;
+        }
+    } 
+
+
+
+    #inputsign{
+        background-color: #FFFFFF;
+        border-top-left-radius: 15px;
+        border-bottom-left-radius: 15px;
+        margin-left: 750px;
+        height: 27px;
+        width: 320px;
+        font-size: 17px;
+        padding: 5px;
+    }
+
+
+    #test{
+    
+        margin-top: 40px;
+    }
+    #testh2{
+        margin-top: -680px;
+        text-align: center;
+        color: #FFFFFF;
+        font-size: xx-large;
+    }
+
+
+    #contacts{
+        margin-top:50px;
+    }
+
+    #helps{
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+
+    #info{
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+
+    #donate{
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+
+    #social{
+        margin-left: 80px;
+    }
+
+    #subcats{
+        font-size: 25px;
+        color: #FFFFFF;
+        margin-left: 125px;
+        margin-top: 15px;
+    }
+
+    #subcats2{
+        font-size: 25px;
+        color: #FFFFFF;
+        margin-left: 290px;
+        margin-top: -345px;
+    }
+
+
+    .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+    .fa-facebook {
+        background: #3B5998;
+        color: white;
+    }
+    
+    .fa-twitter {
+        background: #55ACEE;
+        color: white;
+    }
+
+        .fa-instagram {
+            background: #e35b5b;
+            color: white;
+        }
+
+        .fa-whatsapp {
+            background: #2cac05;
+            color: white;
+        }
+
+        #socials{
+            margin-left: 1050px;
+            margin-top: -150px;
+        }
+                
+    #amounts{
+            margin-left: 80px;
+            margin-right: 80px;
+            align-items: center;
+            justify-content: space-evenly;
+            display: flex;
+            justify-items: space-evenly;
+            text-align: center;
+            transform: all 0.3s ease;
+    }          
+
+    @media screen and (max-device-width: 1800px){
+        #amounts{
+            margin-left: 60px;
+        }
+    }
+    @media screen and (max-device-width: 1600px){
+        #amounts{
+            margin-left: 40px;
+        }
+    }
+    @media screen and (max-device-width: 1400px){
+        #amounts{
+            margin-left: 20px;
+        }
+    }
+    @media screen and (max-device-width: 1200px){
+        #amounts{
+            margin-left: 5px;
+        }
+    }
+
+    #button20{
+        background-color: white;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 40px;
+        width: 100px;
+        color: #3c4390;
+        font-size: 24px;
+
+    }
+
+    .button20:hover{
+        background-color: #3c4390;
+        color: white;
+        animation: onclick 0.3s ease-in ;
+        cursor: pointer;
+        transform: scale(1.1);
+        
+
+    }
+
+    #button50{
+        background-color: white;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 40px;
+        width: 100px;
+        color: #3c4390;
+        font-size: 24px;
+
+    }
+    .button50:hover{
+        background-color: #3c4390;
+        color: white;
+        animation: onclick 0.3s ease-in ;
+        cursor: pointer;
+        transform: scale(1.1);
+
+    }
+    #button100{
+        background-color: white;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 40px;
+        width: 100px;
+        color: #3c4390;
+        font-size: 24px;
+
+    }
+    .button100:hover{
+        background-color: #3c4390;
+        color: white;
+        animation: onclick 0.3s ease-in ;
+        cursor: pointer;
+        transform: scale(1.1);
+
+    }
+    #button200{
+        background-color: white;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 40px;
+        width: 100px;
+        color: #3c4390;
+        font-size: 24px;
+
+    }
+    .button200:hover{
+        background-color: #3c4390;
+        color: white;
+        animation: onclick 0.3s ease-in ;
+        cursor: pointer;
+        transform: scale(1.1);
+
+    }
+    #button500{
+        background-color: white;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 40px;
+        width: 100px;
+        color: #3c4390;
+        font-size: 24px;
+
+    }
+    .button500:hover{
+        background-color: #3c4390;
+        color: white;
+        animation: onclick 0.3s ease-in ;
+        cursor: pointer;
+        transform: scale(1.1);
+
+    }
+    #other{
+        background-color: white;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 40px;
+        width: 100px;
+        color: #3c4390 ;
+        font-size: 24px;
+        text-align: center;
+        margin: 24px;
+
+    }
+
+
+    #onetimepayment{
+        background-color: #3c4390;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 50px;
+        width: 300px;
+        color: #F5DEE0;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        transition: 0.3s;
+        
+
+    }
+
+    #monthlypayment{
+        background-color: #F5DEE0;
+        border: #F5DEE0 solid 2px;
+        border-radius: 20%;
+        height: 50px;
+        width: 300px;
+        color: #3c4390;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        transition: 0.3s;
+        
+
+    }
+
+    #amazonwishlist{
+        background-color: #F5DEE0;
+        border: #F5DEE0 solid 2px;
+        border-radius: 20%;
+        height: 50px;
+        width: 300px;
+        color: #3c4390;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        
+        
+
+    }
+    /* .tab{
+            background-color: #F5DEE0;
+            height: 60px;
+            width: 950px;
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            justify-items: center;
+            border-radius: 20%;
+            margin-left: 450px;
+            overflow: hidden;
+            cursor: pointer;
+        text-align: center; */
+            
+    
+    .waystodonate{
+        margin-left: 60px;
+        margin-top: 80px;
+        margin-bottom: 80px;
+        font-size: 64px;
+    }
+
+    .donatep{
+        margin-left: 60px;
+        font-size: 24px;
+        margin-right: 60px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+
+    .contribution{
+        margin-left: 60px;
+        font-size: 36px;
+        margin-right: 60px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+    .accept{
+        font-size: 36px;
+        margin-left: 90px;
+    }
+
+
+    .payment{
+
+        align-items: center;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            grid-template-areas: credit apple venmo paypal;
+            justify-items: center;
+        padding: 24px;
+            cursor: pointer;
+            transition: 0.3s;
+            margin-left: 30px;
+            justify-content: space-evenly;
+            justify-items: space-evenly;
+            text-align: center;
+            transition: all 0.3s ease;
+    }
+
+
+
+    #creditcard{
+        background-color: #3c4390;
+        border: #F5DEE0 solid 2px;
+        border-radius: 20%;
+        height: 80px;
+        width: 250px;
+        color: #F5DEE0;
+        font-size: 24px;
+        align-items: baseline;
+        cursor: pointer;
+
+    }
+
+    #applepay{
+        background-color: #F5DEE0;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 60px;
+        width: 200px;
+        color: #3c4390;
+        font-size: 24px;
+        box-shadow: 5px 5px #3c4390;
+        align-items: baseline;
+        cursor: pointer;
+
+    }
+    .applepay:hover{
+    
+        
+        animation: 0.3s ease-in ;
+        cursor: pointer;
+        transform: scale(1.1) ;
+    
+    }
+    #venmo{
+        background-color: #F5DEE0;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 60px;
+        width: 200px;
+        color: #3c4390;
+        font-size: 24px;
+        box-shadow: 5px 5px #3c4390;
+        align-items: baseline;
+        cursor: pointer;
+
+    }
+    .venmo:hover{
+    
+        
+        animation: 0.3s ease-in ;
+        cursor: pointer;
+        transform: scale(1.1) ;
+    }
+    #paypal{
+        background-color: #F5DEE0;
+        border: #3c4390 solid 2px;
+        border-radius: 20%;
+        height: 60px;
+        width: 200px;
+        color: #3c4390;
+        font-size: 24px;
+        box-shadow: 5px 5px #3c4390;
+        align-items: baseline;
+        cursor: pointer;
+
+    }
+    .paypal:hover{
+    
+        
+        animation: 0.3s ease-in ;
+        cursor: pointer;
+        transform: scale(1.1) ;
+    }
+
+
+    .info{
+        display: inline-block
+        
+                    
+    }
+    #cardnumber{
+
+        height: 25px;
+        width: 515px;
+        margin-left: 80px;
+        margin-top: 80px;
+        margin-left: 80px;
+        margin-bottom: 40px;
+    }
+    #nameoncard{
+
+        height: 25px;
+        width: 515px;
+        margin-left: 80px;
+        margin-left: 80px;
+    
+    }
+    #expirationdate{
+
+        height: 25px;
+        width: 250px;
+        margin-left: 380px;
+        margin-left: 80px;
+        margin-bottom: 40px;
+        margin-top: 40px;
+    }
+    #cvv{
+
+        height: 25px;
+        width: 250px;
+        margin-left: 5px;
+        margin-left: 5px;
+        margin-bottom: 40px;
+        margin-top: 40px;
+    }
+    .donateimg{
+
+    display: block;
+    float: right;
+        
+    }
+    #donateimg{
+        float: right;
+        margin-left: 1080px;
+        margin-top: -250px;
+    }
+
+    .donate{
+        background-color: #3C4390;
+        height: 50px;
+        width: 520px;
+        color: #F5DEE0;
+        font-size: large;
+        font-family: Arial, Helvetica, sans-serif;
+        border-radius: 12px;
+        border-style: solid;
+        border: none;
+        align-items: center;
+        justify-content: center;
+        display: inline-block;
+        margin-left: 90px;
+        margin-top: 40px;
+    }
+
+
+
+    input[type="radio"] {
+        display: none;
+
+    
+    }
+    
+    input[type="radio"] + label:before {
+        content: "";
+        display: inline-block;
+        width: 18px;
+        height: 18px;
+        margin-right: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        border-radius: 50%;
+        border: 2px solid #3C4390;
+        background-color: white;
+    
+    
+    }
+    
+    input[type="radio"]:checked + label:before {
+        background-color: #3C4390;
+    } 
+
+    .radio1{
+        margin-left: 120px;
+        margin-top: 40px;
+        font-size: 24px;
+    }
+    .radio2{
+        margin-left: 120px;
+        margin-top: 20px;
+        font-size: 24px;
+    }
+    .radio3{
+        margin-left: 120px;
+        margin-top: 20px;
+        font-size: 24px;
+    }
+
+    .Frequency{
+        margin-left: 80px;
+        font-size: larger;
+    }
+    .amounts{
+        margin-left: 80px;
+        font-size: larger;
+        margin-top: 60px;
+        margin-bottom: 80px;
+    }
+    .method{
+        margin-left: 80px;
+        font-size: larger;
+        margin-top: 60px;
+        margin-bottom: 80px;
+    }
+
+
+
+    @media screen and (max-device-width: 1800px){
+        #creditcard{
+            margin-left: 40px;
+            height: 75px;
+            width:220px;
+        }
+        #venmo{
+            margin-left: 40px;
+            height: 60px;
+            width:170px;
+        }
+        #paypal{
+            margin-left: 40px;
+            height: 60px;
+            width:170px;
+        }
+        #applepay{
+            margin-left: 40px;
+            height: 60px;
+            width:170px;
+        }
+    }
+    @media screen and (max-device-width: 1500px){
+        #creditcard{
+            margin-left: 20px;
+            height: 65px;
+            width:180px;
+            font-size: 20px;
+        }
+        #venmo{
+            margin-left: 20px;
+            height: 50px;
+            width:140px;
+            font-size: 20px;
+        }
+        #paypal{
+            margin-left: 20px;
+            height: 50px;
+            width:140px;
+            font-size: 20px;
+        }
+        #applepay{
+            margin-left: 20px;
+            height: 50px;
+            width:140px;
+            font-size: 20px;
+        }
+    }
+
+    @media screen and (max-device-width: 1200px){
+        #creditcard{
+            margin-left: 5px;
+            height: 50px;
+            width:140px;
+            font-size: 16px;
+        }
+        #venmo{
+            margin-left: 5px;
+            height: 40px;
+            width:110px;
+            font-size: 16px;
+        }
+        #paypal{
+            margin-left: 5px;
+            height: 40px;
+            width:110px;
+            font-size: 16px;
+        }
+        #applepay{
+            margin-left: 5px;
+            height: 40px;
+            width:110px;
+            font-size: 16px;
+        }
+    }
+
+    @media screen and (max-device-width: 1800px){
+        #donateimg{
+            margin-left: 950px;
+            max-width: 90%;  
+            height: auto;  
+        }
+    } 
+    @media screen and (max-device-width: 1500px){
+        #donateimg{
+            margin-left: 850px;
+            max-width: 50%;  
+            height: auto;  
+        }
+    } 
+    @media screen and (max-device-width: 1200px){
+        #donateimg{
+            margin-left: 750px;
+            max-width: 50%;  
+            height: auto;  
+        }
+    } 
+    @media screen and (max-device-width: 1200px){
+        #donateimg{
+            margin-left: 500px;
+            max-width: 40%;  
+            height: auto;  
+        }
+    } 
+
+
+ 
+
+
+    @media screen and (max-device-width: 1800px){
+        #inputsign{
+            margin-left: 620px;
+        }
+        #testh2{
+            margin-left: -20px;
+        }
+    }
+    @media screen and (max-device-width: 1600px){
+        #inputsign{
+            margin-left: 550px;
+        }
+        #testh2{
+            margin-left: -40px;
+        }
+    }
+    @media screen and (max-device-width: 1400px){
+        #inputsign{
+            margin-left: 410px;
+        }
+        #testh2{
+            margin-left: -75px;
+        }
+    }
+    @media screen and (max-device-width: 1200px){
+        #inputsign{
+            margin-left: 300px;
+        }
+        #testh2{
+            margin-left: -85px;
+        }
+    } 
+
+
+    .navigation-bar {
+        width: 100%;  
+        height: 80px;
+        background-color: #F5DEE0;
+    }
+    .navigation-bar > a {
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 20px;
+        height: 80px;        
+        line-height: 80px;   
+        padding: 0 50px 0 50px;
+    }
+
+    .navigation-bar{
+        font-size: larger;
+        justify-items: center;
+        align-items: center;
+        justify-content: space-evenly;
+        display: flex;
+    }
+    
+    #navigation-bar{
+        justify-content: flex-start;
+    }
+
+
+    .navigation-bar2 {
+        width: 100%;  
+        height: 80px;
+        background-color: #F5DEE0;
+    }
+    .navigation-bar2 > a {
+        height: 80px;        
+        line-height: 80px;   
+    }
+
+    .navigation-bar2{
+        font-size: larger;
+        display: flex;
+    }
+    
+    #navigation-bar2{
+        justify-content: flex-start;
+    }
+
+    #helps{
+        margin-left: 130px;
+    }
+
+    #info{
+        margin-left: 170px;
+    }
+    #social{
+        margin-left: 450px;
+    }
+
+
+    @media screen and (max-device-width: 1300px){
+        /* #helps{
+            margin-left: 100px;
+        }
+    
+        #info{
+            margin-left: 140px;
+        } */
+        #social{
+            margin-left: 380px;
+        }
+        #socials{
+            margin-left: 980px;
+        }
+    }
+
+    @media screen and (max-device-width: 1100px){
+        #info{
+            margin-left: 120px;
+        } 
+        #social{
+            margin-left: 350px;
+        }
+        #socials{
+            margin-left: 950px;
+        }
+        #subcats{
+            font-size:18px ;
+        }
+        #subcats2{
+            font-size:18px ;
+            margin-top: -260px;
+            margin-left: 220px;
+        }
+    }
+
+    @media screen and (max-device-width: 1050px){
+        #info{
+            margin-left: 100px;
+        } 
+        #social{
+            margin-left: 300px;
+        }
+        #socials{
+            margin-left: 850px;
+        }
+        #subcats{
+            font-size:18px ;
+        }
+        #subcats2{
+            font-size:18px ;
+        }
+    }
+  
