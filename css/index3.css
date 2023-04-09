@@ -415,19 +415,26 @@ div.t {
 
 
   .dogs{
-    margin-left: 110px;
+    margin-left: 80px;
 }
+
+@media screen and (max-device-width: 1800px){
+    .dogs{
+        max-width: 80%;
+    }
+}
+    
 
 
 
 .space1{
-    margin-left: 100px;
+    margin-left: 410px;
 }
 .space2{
     margin-left: 410px;
 }
 .space3{
-    margin-left: 290px;
+    margin-left: 410px;
 }
 .space4{
     margin-left: 410px;
@@ -442,5 +449,41 @@ div.t {
     margin-left: 410px;
 }
 .space8{
+    margin-left: 410px;
+}
+.space9{
+    margin-left: 410px;
+}
+.space10{
+    margin-left: 410px;
+}
+.space11{
+    margin-left: 410px;
+}
+.space12{
+    margin-left: 410px;
+}
+.space13{
+    margin-left: 410px;
+}
+.space14{
+    margin-left: 410px;
+}
+.space15{
+    margin-left: 410px;
+}
+.space16{
+    margin-left: 410px;
+}
+.space17{
+    margin-left: 410px;
+}
+.space18{
+    margin-left: 410px;
+}
+.space19{
+    margin-left: 410px;
+}
+.space20{
     margin-left: 410px;
 }
