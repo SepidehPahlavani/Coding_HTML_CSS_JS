@@ -160,6 +160,11 @@
         margin-right: 80px;
     }
 
+    .donate:hover{
+        background-color: #0011CD;
+        color: #F5DEE0; 
+    }
+
     #social{
         margin-left: 80px;
     }
@@ -398,19 +403,7 @@
         
 
     }
-    /* .tab{
-            background-color: #F5DEE0;
-            height: 60px;
-            width: 950px;
-            align-items: center;
-            justify-content: center;
-            display: flex;
-            justify-items: center;
-            border-radius: 20%;
-            margin-left: 450px;
-            overflow: hidden;
-            cursor: pointer;
-        text-align: center; */
+  
             
     
     .waystodonate{
